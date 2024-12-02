@@ -1,7 +1,7 @@
 import React from "react";
 import { ThemeProvider, useTheme } from "./context/ThemeContext";
 import Header from "./components/Header";
-import WeatherDisplay from "./components/WeatherDIsplay";
+import WeatherDisplay from "./components/WeatherDisplay";
 
 const App = () => {
   return (
